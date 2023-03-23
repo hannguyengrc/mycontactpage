@@ -84,6 +84,7 @@ html, body {
    
 #logo {
 	width: 50%;/*--- this is for responsiveness ---*/
+	max-width: 200%; 
     margin-top: 200px; /*-- this separates logo and div --*/
 	margin-bottom: 5px; /*-- this separates logo and div --*/
 	text-align: center;
